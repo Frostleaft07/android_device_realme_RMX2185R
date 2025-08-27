@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_RMX2185.mk
+    $(LOCAL_DIR)/superior_RMX2185.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_RMX2185-user \
-    cipher_RMX2185-userdebug \
-    cipher_RMX2185-eng
+    superior_RMX2185-user \
+    suoerior_RMX2185-userdebug \
+    superior_RMX2185-eng
