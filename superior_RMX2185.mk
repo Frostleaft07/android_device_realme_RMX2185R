@@ -23,7 +23,7 @@ $(call inherit-product, device/realme/RMX2185/device.mk)
 
 # Inherit some common stuff.
 TARGET_BOOT_ANIMATION_RES := 720
-$(call inherit-product, vendor/superior/config/common_full_phone.mk)
+$(call inherit-product, vendor/superior/config/common.mk)
 $(call inherit-product, vendor/superior/config/BoardConfigSoong.mk)
 
 TARGET_FACE_UNLOCK_SUPPORTED := true
