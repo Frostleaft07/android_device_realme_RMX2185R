@@ -19,5 +19,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     superior_RMX2185-user \
-    suoerior_RMX2185-userdebug \
+    superior_RMX2185-userdebug \
     superior_RMX2185-eng
